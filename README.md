@@ -55,6 +55,10 @@ Contribute to GitHub ![github repository](https://github.com/L3G4Cyy/random-pass
 ## Tests
 
 For windows:
+
 `python -m unittest.py`
+
+
 For Linux Distros:
+
 `python3 -m unittest.py`
