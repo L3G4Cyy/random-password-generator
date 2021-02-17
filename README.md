@@ -59,6 +59,6 @@ For windows:
 `python -m unittest.py`
 
 
-For Linux Distros:
+For Linux Debian/Ubuntu based distros:
 
 `python3 -m unittest.py`
