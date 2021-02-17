@@ -24,14 +24,14 @@ Run `passwordgen.exe`
 
 Following features are used to enhance password security
 
--[x] Uppercase
--[x] Lowercase
--[x] Numbers
--[x] Symbols
+- [x] Uppercase
+- [x] Lowercase
+- [x] Numbers
+- [x] Symbols
 
 ### TODO
--[ ] Require a least 1 symbol
--[ ] Require at least 1 numer
+- [ ] Require a least 1 symbol
+- [ ] Require at least 1 numer
 
 ## Demo
 
