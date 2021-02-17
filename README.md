@@ -32,6 +32,7 @@ Following features are used to enhance password security
 ### TODO
 - [ ] Require a least 1 symbol
 - [ ] Require at least 1 numer
+- [ ] Add Password History and save to a file that is encrypted.
 
 ## Demo
 
